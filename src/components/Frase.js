@@ -4,6 +4,7 @@ function Frase(){
     return(
         <div className = {styles.fraseContainer} >
             <p className = {styles.fraseContent}>este é um componente com uma frase</p>
+            
         </div>
     )
 }
